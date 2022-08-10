@@ -4,3 +4,4 @@ li,ul{list-style:none; margin:0;}
 nav{margin:0}
 div{padding:2px; margin-bottom:2px;}
 #wrapper{padding:5px; background:#eee;}
+img{max-width:100%}
